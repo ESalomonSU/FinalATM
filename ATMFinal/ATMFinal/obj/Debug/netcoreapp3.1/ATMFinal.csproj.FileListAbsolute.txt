@@ -1,0 +1,24 @@
+/Users/salom11/Desktop/ATMFinal/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.deps.json
+/Users/salom11/Desktop/ATMFinal/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.runtimeconfig.json
+/Users/salom11/Desktop/ATMFinal/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.runtimeconfig.dev.json
+/Users/salom11/Desktop/ATMFinal/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.dll
+/Users/salom11/Desktop/ATMFinal/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.pdb
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.csprojAssemblyReference.cache
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.AssemblyInfo.cs
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.dll
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.pdb
+/Users/salom11/Desktop/ATMFinal/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.genruntimeconfig.cache
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.csprojAssemblyReference.cache
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.AssemblyInfo.cs
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.dll
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.pdb
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.deps.json
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.runtimeconfig.json
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.runtimeconfig.dev.json
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.dll
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/bin/Debug/netcoreapp3.1/ATMFinal.pdb
+/Users/salom11/Desktop/ATMFinal copy/ATMFinal/obj/Debug/netcoreapp3.1/ATMFinal.genruntimeconfig.cache
